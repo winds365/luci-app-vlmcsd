@@ -1,10 +1,10 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=luci-app-vlmcsd
-PKG_VERSION:=1.0.1
-PKG_RELEASE:=2
+PKG_VERSION:=1.0.2
+PKG_RELEASE:=1
 
-PKG_MAINTAINER:=fuyumi <280604399@qq.com>
+PKG_MAINTAINER:=cokebar <cokebar@cokebar.info>
 PKG_LICENSE:=MIT
 PKG_LICENSE_FILES:=LICENSE
 
